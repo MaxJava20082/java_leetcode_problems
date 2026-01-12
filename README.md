@@ -1,4 +1,4 @@
-``# Algorithmic Ascension: A Working Developer's Journey Through NeetCode 75
+# Algorithmic Ascension: A Working Developer's Journey Through NeetCode 75
 
 **Проект-отчёт для конференции [Название конференции] | Автор: Щеголев Максим Антонович, Java/Kotlin-разработчик**
 
